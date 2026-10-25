@@ -1,0 +1,37 @@
+{
+    "produtos": [
+        {
+            "nome": "feijão",
+            "preco": 10.0,
+            "estoque": 22
+        },
+        {
+            "nome": "teste",
+            "preco": 10.0,
+            "estoque": 5
+        }
+    ],
+    "vendas": [
+        {
+            "produto": "feijão",
+            "quantidade": 25,
+            "valor_unitario": 10.0,
+            "total": 250.0,
+            "data": "17/09/2026"
+        },
+        {
+            "produto": "arroz",
+            "quantidade": 20,
+            "valor_unitario": 8.0,
+            "total": 160.0,
+            "data": "17/09/2026"
+        },
+        {
+            "produto": "feijão",
+            "quantidade": 3,
+            "valor_unitario": 10.0,
+            "total": 30.0,
+            "data": "17/09/2026"
+        }
+    ]
+}
